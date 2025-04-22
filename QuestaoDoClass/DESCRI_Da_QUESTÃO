@@ -1,0 +1,13 @@
+QUESTÃO -
+
+Com a necessidade de formatar e estilizar elementos ao longo do HTML, o CSS disponibiliza algumas formas de "selecionar" os elementos desejados para receber o estilo. Usando seletores de CSS direciona-se através de classes, IDs ou até mesmo  TAGs de elementos estilos de formatação precisos e por vezes reutilizáveis.
+
+O código CSS abaixo pretende criar a formatação de um ou mais elementos através do uso classes, representadas no HTML com o atributo "class". Este mesmo código também possui 3 erros em relação a sua estrutura de seletores:
+
+&minhaClass [
+  font-weight: bold,
+  font-size: 12px,
+  font-family: Helvetica,
+]
+
+Descreva de forma sucinta quais seriam estes erros na sua opinião:
