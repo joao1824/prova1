@@ -1,0 +1,17 @@
+O código HTML abaixo, apesar de simples, possui pelo menos 2 erros graves em sua estruturação/sintaxe:
+
+<!DOCTYPE html>
+<html>
+  <header>
+    <meta charset="utf-8" />
+    <meta name="description" content="a descrição do seu site">
+    <title>Título do Documento</title>
+  </header>
+  <body>
+    <p>Acesse o site <a url="http://www.satc.edu.br">clique aqui</a>.</p>
+  </body>
+</html>
+
+(clique aqui para visualizar o código acima em uma janela separada)
+
+Descreva de forma sucinta quais seriam estes erros na sua opinião:
