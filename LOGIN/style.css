@@ -21,7 +21,7 @@ body{
 .alll {
 
     
-    width: 40% ; 
+    width: 30% ; 
     height: 60%;
     display: flex;
     flex-direction: column;
@@ -37,11 +37,12 @@ body{
 
 .titulo{
 
+    text-align: center;
     width: 50%;
     height: 10%;
     margin-bottom: 10%;
     align-self: center;
-    font-size: larger;
+    
 
 }
 
